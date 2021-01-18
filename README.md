@@ -1,1 +1,4 @@
-# Virtual_Assistant
+# Virtual_Assistant using python, pyttsx3, pyaudio, selenium, speech_recognition
+
+<h2>Features</>
+  Simple Virtual assistant who can open google chrome, can go to facebook.com, can login your account by webscraping using selenium
