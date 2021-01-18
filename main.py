@@ -57,7 +57,6 @@ def respond(voice_data):
 	elif voice_data == "open facebook":
 		engine.say("Sure. Give me a second")
 		engine.runAndWait()
-		global driver
 		driver = openfb()
 		anything_else()
 	elif voice_data == "login":
